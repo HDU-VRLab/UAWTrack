@@ -89,12 +89,12 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <tr>
 <td align="center"><b>UAWTrack</b></td>
 <td align="center">AAAI'25</td>
-<td align="center">71.8/84.0</td>
-<td align="center">62.2/88.9</td>
+<td align="center"><b>71.8/84.0</b></td>
+<td align="center"><b>62.2/88.9</b></td>
 <td align="center">64.5/77.7</td>
-<td align="center">74.8/94.1</td>
-<td align="center">67.1/85.8</td>
-<td align="center">68.3/86.1</td>
+<td align="center"><b>74.8/94.1</b></td>
+<td align="center"><b>67.1/85.8</b></td>
+<td align="center"><b>68.3/86.1</b></td>
 </tr>
   
 <tr> 
@@ -139,14 +139,14 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="center">52.0/68.6</td>
 </tr>
 <tr>
-<td align="center">UAWTrack</td>
+<td align="center"><b>UAWTrack</b></td>
 <td align="center">AAAI'25</td>
-<td align="center">58.3/70.2</td>
+<td align="center"><b>58.3/70.2</b></td>
 <td align="center">58.0/85.8</td>
-<td align="center">41.0/49.5</td>
-<td align="center">74.5/94.1</td>
-<td align="center">57.0/75.6</td>
-<td align="center">60.3/74.9</td>
+<td align="center"><b>41.0/49.5</b></td>
+<td align="center"><b>74.5/94.1</b></td>
+<td align="center"><b>57.0/75.6</b></td>
+<td align="center"><b>60.3/74.9</b></td>
 </tr>
 
 <tr> 
@@ -191,14 +191,14 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="center">50.7/66.5</td>
 </tr>
 <tr>
-<td align="center">UAWTrack</td>
+<td align="center"><b>UAWTrack</b></td>
 <td align="center">AAAI'25</td>
-<td align="center">57.2/68.9</td>
-<td align="center">56.9/84.6</td>
-<td align="center">39.6/46.9</td>
-<td align="center">74.3/94.0</td>
-<td align="center">55.9/74.3</td>
-<td align="center">57.0/73.6</td>
+<td align="center"><b>57.2/68.9</b></td>
+<td align="center"><b>56.9/84.6</b></td>
+<td align="center"><b>39.6/46.9</b></td>
+<td align="center"><b>74.3/94.0</b></td>
+<td align="center"><b>55.9/74.3</b></td>
+<td align="center"><b>57.0/73.6</b></td>
 </tr>
 
 <tr> 
@@ -243,14 +243,14 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="center">52.3/67.5</td>
 </tr>
 <tr>
-<td align="center">UAWTrack</td>
+<td align="center"><b>UAWTrack</b></td>
 <td align="center">AAAI'25</td>
-<td align="center">72.8/85.6</td>
-<td align="center">29.1/51.0</td>
-<td align="center">62.6/74.7</td>
-<td align="center">66.4/90.1</td>
-<td align="center">52.8/69.8</td>
-<td align="center">57.7/75.3</td>
+<td align="center"><b>72.8/85.6</b></td>
+<td align="center"><b>29.1/51.0</b></td>
+<td align="center"><b>62.6</b>/74.7</td>
+<td align="center"><b>66.4/90.1</b></td>
+<td align="center"><b>52.8/69.8</b></td>
+<td align="center"><b>57.7/75.3</b></td>
 </tr>
 </table>
 
