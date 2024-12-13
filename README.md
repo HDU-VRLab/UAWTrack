@@ -30,12 +30,6 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 
 ## :crown:Main Results
 ### KITTI
-|Weather Type|Tracker|Source|Car|Pedestrian|Van|Cyclist|Mean|Mean by Category|
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Clear->Rain|55.1 / 65.8|52.8 / 80.9|39.5 / 45.6|70.4 / 92.2|53.1 / 71.1|
-|Rain&Snow|53.7 / 64.3|51.3 / 79.9|38.6 / 44.3|69.8 / 90.3|51.7 / 69.8|
-|Rain&Fog|54.1 / 64.7|51.9 / 80.6|39.3 / 44.8|70.3 / 90.7|52.2 / 70.4|
-
 <table>
 <thead>
 <tr>
@@ -50,7 +44,8 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <th align="left">Mean by Category</th>
 </tr>
 </thead>
-<tbody><tr>
+  
+<tr>
 <th align="left" rowspan="5" nowrap="nowrap">Clear</th>
 <td align="left">P2B</td>
 <td align="left">CVPR'20</td>
@@ -101,8 +96,59 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="left">67.1/85.8</td>
 <td align="left">68.3/86.1</td>
 </tr>
+  
+<tr> 
+<th align="left" rowspan="5" nowrap="nowrap">Rain</th>
+<td align="left">P2B</td>
+<td align="left">CVPR'20</td>
+<td align="left">54.4/68.7</td>
+<td align="left">36.9/59.6</td>
+<td align="left">42.2/50.8</td>
+<td align="left">27.9/37.7</td>
+<td align="left">45.2/62.5</td>
+<td align="left">40.4/54.2</td>
+</tr>
 <tr>
-</tbody></table>
+<td align="left">M2Track</td>
+<td align="left">CVPR'22</td>
+<td align="left">62.7/76.0</td>
+<td align="left">49.9/80.4</td>
+<td align="left">61.4/77.2</td>
+<td align="left">73.1/93.4</td>
+<td align="left">57.3/78.4</td>
+<td align="left">61.8/81.8</td>
+</tr>
+<tr>
+<td align="left">GLT-T</td>
+<td align="left">AAAI'23</td>
+<td align="left">66.3/79.3</td>
+<td align="left">44.8/71.5</td>
+<td align="left">44.8/52.7</td>
+<td align="left">58.3/87.8</td>
+<td align="left">54.9/73.8</td>
+<td align="left">53.5/72.9</td>
+</tr>
+<tr>
+<td align="left">MBPTrack</td>
+<td align="left">ICCV'23</td>
+<td align="left">70.6/81.3</td>
+<td align="left">58.3/85.0</td>
+<td align="left">67.0/78.4</td>
+<td align="left">69.6/93.0</td>
+<td align="left">64.9/82.9</td>
+<td align="left">66.4/84.4</td>
+</tr>
+<tr>
+<td align="left">UAWTrack</td>
+<td align="left">AAAI'25</td>
+<td align="left">71.8/84.0</td>
+<td align="left">62.2/88.9</td>
+<td align="left">64.5/77.7</td>
+<td align="left">74.8/94.1</td>
+<td align="left">67.1/85.8</td>
+<td align="left">68.3/86.1</td>
+</tr>
+</table>
 
 ![kitti](figures/kitti.png)
 
