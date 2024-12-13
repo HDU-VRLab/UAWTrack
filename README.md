@@ -57,96 +57,148 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="center">40.4/54.2</td>
 </tr>
 <tr>
-<td align="left">M2Track</td>
-<td align="left">CVPR'22</td>
-<td align="left">62.7/76.0</td>
-<td align="left">49.9/80.4</td>
-<td align="left">61.4/77.2</td>
-<td align="left">73.1/93.4</td>
-<td align="left">57.3/78.4</td>
-<td align="left">61.8/81.8</td>
+<td align="center">M2Track</td>
+<td align="center">CVPR'22</td>
+<td align="center">62.7/76.0</td>
+<td align="center">49.9/80.4</td>
+<td align="center">61.4/77.2</td>
+<td align="center">73.1/93.4</td>
+<td align="center">57.3/78.4</td>
+<td align="center">61.8/81.8</td>
 </tr>
 <tr>
-<td align="left">GLT-T</td>
-<td align="left">AAAI'23</td>
-<td align="left">66.3/79.3</td>
-<td align="left">44.8/71.5</td>
-<td align="left">44.8/52.7</td>
-<td align="left">58.3/87.8</td>
-<td align="left">54.9/73.8</td>
-<td align="left">53.5/72.9</td>
+<td align="center">GLT-T</td>
+<td align="center">AAAI'23</td>
+<td align="center">66.3/79.3</td>
+<td align="center">44.8/71.5</td>
+<td align="center">44.8/52.7</td>
+<td align="center">58.3/87.8</td>
+<td align="center">54.9/73.8</td>
+<td align="center">53.5/72.9</td>
 </tr>
 <tr>
-<td align="left">MBPTrack</td>
-<td align="left">ICCV'23</td>
-<td align="left">70.6/81.3</td>
-<td align="left">58.3/85.0</td>
-<td align="left">67.0/78.4</td>
-<td align="left">69.6/93.0</td>
-<td align="left">64.9/82.9</td>
-<td align="left">66.4/84.4</td>
+<td align="center">MBPTrack</td>
+<td align="center">ICCV'23</td>
+<td align="center">70.6/81.3</td>
+<td align="center">58.3/85.0</td>
+<td align="center">67.0/78.4</td>
+<td align="center">69.6/93.0</td>
+<td align="center">64.9/82.9</td>
+<td align="center">66.4/84.4</td>
 </tr>
 <tr>
-<td align="left">UAWTrack</td>
-<td align="left">AAAI'25</td>
-<td align="left">71.8/84.0</td>
-<td align="left">62.2/88.9</td>
-<td align="left">64.5/77.7</td>
-<td align="left">74.8/94.1</td>
-<td align="left">67.1/85.8</td>
-<td align="left">68.3/86.1</td>
+<td align="center">UAWTrack</td>
+<td align="center">AAAI'25</td>
+<td align="center">71.8/84.0</td>
+<td align="center">62.2/88.9</td>
+<td align="center">64.5/77.7</td>
+<td align="center">74.8/94.1</td>
+<td align="center">67.1/85.8</td>
+<td align="center">68.3/86.1</td>
 </tr>
   
 <tr> 
-<th align="left" rowspan="5" nowrap="nowrap">Rain</th>
-<td align="left">P2B</td>
-<td align="left">CVPR'20</td>
-<td align="left">35.0/42.1</td>
-<td align="left">36.7/58.8</td>
-<td align="left">20.6/23.2</td>
-<td align="left">27.5/38.0</td>
-<td align="left">34.3/47.6</td>
-<td align="left">30.0/40.5</td>
+<th align="center" rowspan="5" nowrap="nowrap">Rain</th>
+<td align="center">P2B</td>
+<td align="center">CVPR'20</td>
+<td align="center">35.0/42.1</td>
+<td align="center">36.7/58.8</td>
+<td align="center">20.6/23.2</td>
+<td align="center">27.5/38.0</td>
+<td align="center">34.3/47.6</td>
+<td align="center">30.0/40.5</td>
 </tr>
 <tr>
-<td align="left">M2Track</td>
-<td align="left">CVPR'22</td>
-<td align="left">42.9/52.1</td>
-<td align="left">50.5/81.8</td>
-<td align="left">26.3/32.5</td>
-<td align="left">73.4/93.5</td>
-<td align="left">45.4/64.1</td>
-<td align="left">45.4/64.1</td>
+<td align="center">M2Track</td>
+<td align="center">CVPR'22</td>
+<td align="center">42.9/52.1</td>
+<td align="center">50.5/81.8</td>
+<td align="center">26.3/32.5</td>
+<td align="center">73.4/93.5</td>
+<td align="center">45.4/64.1</td>
+<td align="center">45.4/64.1</td>
 </tr>
 <tr>
-<td align="left">GLT-T</td>
-<td align="left">AAAI'23</td>
-<td align="left">38.5/45.8</td>
-<td align="left">44.9/71.0</td>
-<td align="left">21.7/23.3</td>
-<td align="left">55.9/84.2</td>
-<td align="left">40.2/55.6</td>
-<td align="left">40.2/55.6</td>
+<td align="center">GLT-T</td>
+<td align="center">AAAI'23</td>
+<td align="center">38.5/45.8</td>
+<td align="center">44.9/71.0</td>
+<td align="center">21.7/23.3</td>
+<td align="center">55.9/84.2</td>
+<td align="center">40.2/55.6</td>
+<td align="center">40.2/55.6</td>
 </tr>
 <tr>
-<td align="left">MBPTrack</td>
-<td align="left">ICCV'23</td>
-<td align="left">55.0/66.9</td>
-<td align="left">58.5/86.1</td>
-<td align="left">25.6/28.5</td>
-<td align="left">68.9/92.8</td>
-<td align="left">54.2/72.4</td>
-<td align="left">52.0/68.6</td>
+<td align="center">MBPTrack</td>
+<td align="center">ICCV'23</td>
+<td align="center">55.0/66.9</td>
+<td align="center">58.5/86.1</td>
+<td align="center">25.6/28.5</td>
+<td align="center">68.9/92.8</td>
+<td align="center">54.2/72.4</td>
+<td align="center">52.0/68.6</td>
 </tr>
 <tr>
-<td align="left">UAWTrack</td>
-<td align="left">AAAI'25</td>
-<td align="left">58.3/70.2</td>
-<td align="left">58.0/85.8</td>
-<td align="left">41.0/49.5</td>
-<td align="left">74.5/94.1</td>
-<td align="left">57.0/75.6</td>
-<td align="left">60.3/74.9</td>
+<td align="center">UAWTrack</td>
+<td align="center">AAAI'25</td>
+<td align="center">58.3/70.2</td>
+<td align="center">58.0/85.8</td>
+<td align="center">41.0/49.5</td>
+<td align="center">74.5/94.1</td>
+<td align="center">57.0/75.6</td>
+<td align="center">60.3/74.9</td>
+</tr>
+
+<tr> 
+<th align="center" rowspan="5" nowrap="nowrap">Snow</th>
+<td align="center">P2B</td>
+<td align="center">CVPR'20</td>
+<td align="center">34.3/41.4</td>
+<td align="center">36.3/58.5</td>
+<td align="center">20.6/23.2</td>
+<td align="center">28.7/39.4</td>
+<td align="center">33.8/47.1</td>
+<td align="center">30.0/40.6</td>
+</tr>
+<tr>
+<td align="center">M2Track</td>
+<td align="center">CVPR'22</td>
+<td align="center">41.1/49.6</td>
+<td align="center">51.2/82.6</td>
+<td align="center">27.3/33.7</td>
+<td align="center">72.5/93.2</td>
+<td align="center">44.9/63.4</td>
+<td align="center">48.0/64.8</td>
+</tr>
+<tr>
+<td align="center">GLT-T</td>
+<td align="center">AAAI'23</td>
+<td align="center">34.8/41.1</td>
+<td align="center">42.3/67.8</td>
+<td align="center">21.1/22.6</td>
+<td align="center">57.4/87.4</td>
+<td align="center">37.3/52.0</td>
+<td align="center">38.9/54.7</td>
+</tr>
+<tr>
+<td align="center">MBPTrack</td>
+<td align="center">ICCV'23</td>
+<td align="center">53.7/65.5</td>
+<td align="center">56.7/82.7</td>
+<td align="center">23.1/24.8</td>
+<td align="center">69.1/92.9</td>
+<td align="center">52.6/69.6</td>
+<td align="center">50.7/66.5</td>
+</tr>
+<tr>
+<td align="center">UAWTrack</td>
+<td align="center">AAAI'25</td>
+<td align="center">57.2/68.9</td>
+<td align="center">56.9/84.6</td>
+<td align="center">39.6/46.9</td>
+<td align="center">74.3/94.0</td>
+<td align="center">55.9/74.3</td>
+<td align="center">57.0/73.6</td>
 </tr>
 </table>
 
