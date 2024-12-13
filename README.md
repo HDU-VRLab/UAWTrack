@@ -101,52 +101,52 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <th align="left" rowspan="5" nowrap="nowrap">Rain</th>
 <td align="left">P2B</td>
 <td align="left">CVPR'20</td>
-<td align="left">54.4/68.7</td>
-<td align="left">36.9/59.6</td>
-<td align="left">42.2/50.8</td>
-<td align="left">27.9/37.7</td>
-<td align="left">45.2/62.5</td>
-<td align="left">40.4/54.2</td>
+<td align="left">35.0/42.1</td>
+<td align="left">36.7/58.8</td>
+<td align="left">20.6/23.2</td>
+<td align="left">27.5/38.0</td>
+<td align="left">34.3/47.6</td>
+<td align="left">30.0/40.5</td>
 </tr>
 <tr>
 <td align="left">M2Track</td>
 <td align="left">CVPR'22</td>
-<td align="left">62.7/76.0</td>
-<td align="left">49.9/80.4</td>
-<td align="left">61.4/77.2</td>
-<td align="left">73.1/93.4</td>
-<td align="left">57.3/78.4</td>
-<td align="left">61.8/81.8</td>
+<td align="left">42.9/52.1</td>
+<td align="left">50.5/81.8</td>
+<td align="left">26.3/32.5</td>
+<td align="left">73.4/93.5</td>
+<td align="left">45.4/64.1</td>
+<td align="left">45.4/64.1</td>
 </tr>
 <tr>
 <td align="left">GLT-T</td>
 <td align="left">AAAI'23</td>
-<td align="left">66.3/79.3</td>
-<td align="left">44.8/71.5</td>
-<td align="left">44.8/52.7</td>
-<td align="left">58.3/87.8</td>
-<td align="left">54.9/73.8</td>
-<td align="left">53.5/72.9</td>
+<td align="left">38.5/45.8</td>
+<td align="left">44.9/71.0</td>
+<td align="left">21.7/23.3</td>
+<td align="left">55.9/84.2</td>
+<td align="left">40.2/55.6</td>
+<td align="left">40.2/55.6</td>
 </tr>
 <tr>
 <td align="left">MBPTrack</td>
 <td align="left">ICCV'23</td>
-<td align="left">70.6/81.3</td>
-<td align="left">58.3/85.0</td>
-<td align="left">67.0/78.4</td>
-<td align="left">69.6/93.0</td>
-<td align="left">64.9/82.9</td>
-<td align="left">66.4/84.4</td>
+<td align="left">55.0/66.9</td>
+<td align="left">58.5/86.1</td>
+<td align="left">25.6/28.5</td>
+<td align="left">68.9/92.8</td>
+<td align="left">54.2/72.4</td>
+<td align="left">52.0/68.6</td>
 </tr>
 <tr>
 <td align="left">UAWTrack</td>
 <td align="left">AAAI'25</td>
-<td align="left">71.8/84.0</td>
-<td align="left">62.2/88.9</td>
-<td align="left">64.5/77.7</td>
-<td align="left">74.8/94.1</td>
-<td align="left">67.1/85.8</td>
-<td align="left">68.3/86.1</td>
+<td align="left">58.3/70.2</td>
+<td align="left">58.0/85.8</td>
+<td align="left">41.0/49.5</td>
+<td align="left">74.5/94.1</td>
+<td align="left">57.0/75.6</td>
+<td align="left">60.3/74.9</td>
 </tr>
 </table>
 
