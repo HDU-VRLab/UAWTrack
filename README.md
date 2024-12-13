@@ -481,7 +481,7 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 </table>
 
 ## :sparkling_heart: Acknowledgement
-This repo is heavily built upon [MMDetection3D](https://github.com/open-mmlab/mmdetection3d and [SiamMo](https://github.com/HDU-VRLab/SiamMo).
+This repo is heavily built upon [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) and [SiamMo](https://github.com/HDU-VRLab/SiamMo).
 
 ## :calendar:License
 This repository is released under MIT License (see LICENSE file for details).
