@@ -480,3 +480,5 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 </tr>
 </table>
 
+## :calendar:License
+This repository is released under MIT License (see LICENSE file for details).
