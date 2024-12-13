@@ -200,6 +200,58 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="center">55.9/74.3</td>
 <td align="center">57.0/73.6</td>
 </tr>
+
+<tr> 
+<th align="center" rowspan="5" nowrap="nowrap">Fog</th>
+<td align="center">P2B</td>
+<td align="center">CVPR'20</td>
+<td align="center">34.3/41.4</td>
+<td align="center">36.3/58.5</td>
+<td align="center">20.6/23.2</td>
+<td align="center">28.7/39.4</td>
+<td align="center">33.8/47.1</td>
+<td align="center">30.0/40.6</td>
+</tr>
+<tr>
+<td align="center">M2Track</td>
+<td align="center">CVPR'22</td>
+<td align="center">46.7/57.7</td>
+<td align="center">15.0/25.5</td>
+<td align="center">40.2/47.7</td>
+<td align="center">19.9/24.8</td>
+<td align="center">31.8/42.2</td>
+<td align="center">30.5/38.9</td>
+</tr>
+<tr>
+<td align="center">GLT-T</td>
+<td align="center">AAAI'23</td>
+<td align="center">58.4/69.1</td>
+<td align="center">21.5/38.0</td>
+<td align="center">47.0/56.8</td>
+<td align="center">32.7/50.4</td>
+<td align="center">40.9/54.1</td>
+<td align="center">53.7/53.6</td>
+</tr>
+<tr>
+<td align="center">MBPTrack</td>
+<td align="center">ICCV'23</td>
+<td align="center">66.5/77.6</td>
+<td align="center">23.6/39.4</td>
+<td align="center">59.6/69.1</td>
+<td align="center">59.7/84.0</td>
+<td align="center">47.2/60.5</td>
+<td align="center">52.3/67.5</td>
+</tr>
+<tr>
+<td align="center">UAWTrack</td>
+<td align="center">AAAI'25</td>
+<td align="center">72.8/85.6</td>
+<td align="center">29.1/51.0</td>
+<td align="center">62.6/74.7</td>
+<td align="center">66.4/90.1</td>
+<td align="center">52.8/69.8</td>
+<td align="center">57.7/75.3</td>
+</tr>
 </table>
 
 ![kitti](figures/kitti.png)
