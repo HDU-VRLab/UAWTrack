@@ -33,28 +33,28 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <table>
 <thead>
 <tr>
-<th align="left">Weather Type</th>
-<th align="left">Tracker</th>
-<th align="left">Source</th>
-<th align="left">Car</th>
-<th align="left">Pedestrian</th>
-<th align="left">Van</th>
-<th align="left">Cyclist</th>
-<th align="left">Mean</th>
-<th align="left">Mean by Category</th>
+<th align="center">Weather Type</th>
+<th align="center">Tracker</th>
+<th align="center">Source</th>
+<th align="center">Car</th>
+<th align="center">Pedestrian</th>
+<th align="center">Van</th>
+<th align="center">Cyclist</th>
+<th align="center">Mean</th>
+<th align="center">Mean by Category</th>
 </tr>
 </thead>
   
 <tr>
-<th align="left" rowspan="5" nowrap="nowrap">Clear</th>
-<td align="left">P2B</td>
-<td align="left">CVPR'20</td>
-<td align="left">54.4/68.7</td>
-<td align="left">36.9/59.6</td>
-<td align="left">42.2/50.8</td>
-<td align="left">27.9/37.7</td>
-<td align="left">45.2/62.5</td>
-<td align="left">40.4/54.2</td>
+<th align="center" rowspan="5" nowrap="nowrap">Clear</th>
+<td align="center">P2B</td>
+<td align="center">CVPR'20</td>
+<td align="center">54.4/68.7</td>
+<td align="center">36.9/59.6</td>
+<td align="center">42.2/50.8</td>
+<td align="center">27.9/37.7</td>
+<td align="center">45.2/62.5</td>
+<td align="center">40.4/54.2</td>
 </tr>
 <tr>
 <td align="left">M2Track</td>
