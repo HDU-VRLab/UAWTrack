@@ -13,5 +13,5 @@ This repo is the official implementation of "UAWTrack: Universal 3D Single Objec
 
 
 :scroll:**Datasets**
-![vis](figures/visualization.pdf)
+
 ![kitti&nus](figures/dataset.png)
