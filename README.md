@@ -256,4 +256,227 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 
 
 ### NuScenes
+<table>
+<thead>
+<tr>
+<th align="center">Weather Type</th>
+<th align="center">Tracker</th>
+<th align="center">Car</th>
+<th align="center">Pedestrian</th>
+<th align="center">Truck</th>
+<th align="center">Trailer</th>
+<th align="center">Bus</th>
+<th align="center">Mean</th>
+<th align="center">Mean by Category</th>
+</tr>
+</thead>
+  
+<tr>
+<th align="center" rowspan="5" nowrap="nowrap">Clear</th>
+<td align="center">P2B</td>
+<td align="center">34.43/36.70</td>
+<td align="center">16.18/29.52</td>
+<td align="center">39.61/35.24</td>
+<td align="center">48.60/35.62</td>
+<td align="center">36.54/29.02</td>
+<td align="center">30.32/34.27</td>
+<td align="center">35.07/33.22</td>
+</tr>
+<tr>
+<td align="center">M2Track</td>
+<td align="center">47.59/55.65</td>
+<td align="center">24.77/50.16</td>
+<td align="center">42.78/41.93</td>
+<td align="center">44.42/34.40</td>
+<td align="center">42.78/41.93</td>
+<td align="center">40.21/51.27</td>
+<td align="center">39.38/42.60</td>
+</tr>
+<tr>
+<td align="center">GLT-T</td>
+<td align="center">36.93/40.40</td>
+<td align="center">23.05/44.71</td>
+<td align="center">44.68/42.92</td>
+<td align="center">46.43/37.92</td>
+<td align="center">39.99/33.46</td>
+<td align="center">34.24/41.67</td>
+<td align="center">38.22/39.88</td>
+</tr>
+<tr>
+<td align="center">MBPTrack</td>
+<td align="center">54.60/62.85</td>
+<td align="center">40.85/69.67</td>
+<td align="center">54.98/54.65</td>
+<td align="center">59.52/47.88</td>
+<td align="center">55.32/50.43</td>
+<td align="center">50.91/63.09</td>
+<td align="center">53.05/57.10</td>
+</tr>
+<tr>
+<td align="center"><b>UAWTrack</b></td>
+<td align="center"><b>62.82/69.21</b></td>
+<td align="center"><b>44.77/76.06</b></td>
+<td align="center"><b>65.33/64.71</b></td>
+<td align="center"><b>74.07/70.60</b></td>
+<td align="center"><b>59.40/52.30</b></td>
+<td align="center"><b>58.23/70.24</b></td>
+<td align="center"><b>61.26/66.58</b></td>
+</tr>
+  
+<tr> 
+<th align="center" rowspan="5" nowrap="nowrap">Rain</th>
+<td align="center">P2B</td>
+<td align="center">34.34/36.51</td>
+<td align="center">16.32/29.84</td>
+<td align="center">39.49/35.25</td>
+<td align="center">49.63/37.18</td>
+<td align="center">36.74/28.84</td>
+<td align="center">30.33/34.30</td>
+<td align="center">35.30/33.52</td>
+</tr>
+<tr>
+<td align="center">M2Track</td>
+<td align="center">47.35/55.48</td>
+<td align="center">24.82/50.26</td>
+<td align="center">42.63/41.84</td>
+<td align="center">44.53/34.76</td>
+<td align="center">42.63/41.84</td>
+<td align="center">40.09/51.22</td>
+<td align="center">39.38/42.78</td>
+</tr>
+<tr>
+<td align="center">GLT-T</td>
+<td align="center">36.40/39.80</td>
+<td align="center">22.95/44.34</td>
+<td align="center">44.55/42.81</td>
+<td align="center">46.73/38.82</td>
+<td align="center">39.58/32.95</td>
+<td align="center">33.91/41.23</td>
+<td align="center">38.04/39.74</td>
+</tr>
+<tr>
+<td align="center">MBPTrack</td>
+<td align="center">53.91/60.89</td>
+<td align="center">40.71/69.42</td>
+<td align="center">54.84/54.62</td>
+<td align="center">59.81/48.04</td>
+<td align="center">55.16/50.08</td>
+<td align="center">55.16/50.08</td>
+<td align="center">52.89/56.61</td>
+</tr>
+<tr>
+<td align="center"><b>UAWTrack</b></td>
+<td align="center"><b>62.80/69.19</b></td>
+<td align="center"><b>44.72/76.06</b></td>
+<td align="center"><b>65.32/64.62</b></td>
+<td align="center"><b>73.90/70.41</b></td>
+<td align="center"><b>59.14/52.10</b></td>
+<td align="center"><b>58.19/70.21</b></td>
+<td align="center"><b>61.18/66.48</b></td>
+</tr>
+
+<tr> 
+<th align="center" rowspan="5" nowrap="nowrap">Snow</th>
+<td align="center">P2B</td>
+<td align="center">34.32/36.49</td>
+<td align="center">16.39/30.11</td>
+<td align="center">39.25/35.01</td>
+<td align="center">49.34/36.64</td>
+<td align="center">35.75/28.01</td>
+<td align="center">30.28/34.30</td>
+<td align="center">35.01/33.25</td>
+</tr>
+<tr>
+<td align="center">M2Track</td>
+<td align="center">47.33/55.45</td>
+<td align="center">24.76/50.22</td>
+<td align="center">42.58/41.72</td>
+<td align="center">44.59/34.84</td>
+<td align="center">42.58/41.72</td>
+<td align="center">40.05/51.17</td>
+<td align="center">39.30/42.62</td>
+</tr>
+<tr>
+<td align="center">GLT-T</td>
+<td align="center">36.37/39.74</td>
+<td align="center">22.88/44.17</td>
+<td align="center">44.27/42.44</td>
+<td align="center">46.84/38.55</td>
+<td align="center">39.26/32.74</td>
+<td align="center">33.84/41.10</td>
+<td align="center">37.92/39.53</td>
+</tr>
+<tr>
+<td align="center">MBPTrack</td>
+<td align="center">54.45/62.73</td>
+<td align="center">40.84/69.62</td>
+<td align="center">55.13/54.92</td>
+<td align="center">59.51/47.81</td>
+<td align="center">55.17/50.23</td>
+<td align="center">50.84/63.04</td>
+<td align="center">53.02/57.06</td>
+</tr>
+<tr>
+<td align="center"><b>UAWTrack</b></td>
+<td align="center"><b>62.74/69.06</b></td>
+<td align="center"><b>44.68/76.09</b></td>
+<td align="center"><b>65.26/64.59</b></td>
+<td align="center"><b>74.07/70.62</b></td>
+<td align="center"><b>59.00/51.98</b></td>
+<td align="center"><b>58.14/70.15</b></td>
+<td align="center"><b>61.15/66.47</b></td>
+</tr>
+
+<tr> 
+<th align="center" rowspan="5" nowrap="nowrap">Fog</th>
+<td align="center">P2B</td>
+<td align="center">31.51/32.48</td>
+<td align="center">15.88/29.41</td>
+<td align="center">39.24/35.99</td>
+<td align="center">45.70/35.79</td>
+<td align="center">35.03/27.53</td>
+<td align="center">28.47/31.99</td>
+<td align="center">33.47/32.24</td>
+</tr>
+<tr>
+<td align="center">M2Track</td>
+<td align="center">42.56/50.28</td>
+<td align="center">22.77/45.98</td>
+<td align="center">36.97/36.21</td>
+<td align="center">42.10/32.61</td>
+<td align="center">36.97/36.21</td>
+<td align="center">36.08/46.36</td>
+<td align="center">35.76/38.56</td>
+</tr>
+<tr>
+<td align="center">GLT-T</td>
+<td align="center">34.29/37.63</td>
+<td align="center">21.34/41.15</td>
+<td align="center">40.68/37.82</td>
+<td align="center">41.81/32.25</td>
+<td align="center">35.17/28.92</td>
+<td align="center">31.60/38.28</td>
+<td align="center">34.66/35.55</td>
+</tr>
+<tr>
+<td align="center">MBPTrack</td>
+<td align="center">54.21/61.51</td>
+<td align="center">37.21/63.37</td>
+<td align="center">54.36/53.79</td>
+<td align="center">60.33/50.22</td>
+<td align="center">52.67/47.59</td>
+<td align="center">49.55/60.47</td>
+<td align="center">51.76/55.30</td>
+</tr>
+<tr>
+<td align="center"><b>UAWTrack</b></td>
+<td align="center"><b>62.03/68.20</b></td>
+<td align="center"><b>40.78/70.04</b></td>
+<td align="center"><b>63.90/63.71</b></td>
+<td align="center"><b>73.87/70.49</b></td>
+<td align="center"><b>56.03/49.65</b></td>
+<td align="center"><b>55.94/67.80</b></td>
+<td align="center"><b>59.32/64.42</b></td>
+</tr>
+</table>
 
