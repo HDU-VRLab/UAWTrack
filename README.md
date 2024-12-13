@@ -87,7 +87,7 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 <td align="center">66.4/84.4</td>
 </tr>
 <tr>
-<td align="center">UAWTrack</td>
+<td align="center"><b>UAWTrack</b></td>
 <td align="center">AAAI'25</td>
 <td align="center">71.8/84.0</td>
 <td align="center">62.2/88.9</td>
@@ -254,8 +254,6 @@ To address the lack of datasets for 3D SOT under adverse weather conditions, we 
 </tr>
 </table>
 
-![kitti](figures/kitti.png)
-
 
 ### NuScenes
-![nus](figures/nus.png)
+
