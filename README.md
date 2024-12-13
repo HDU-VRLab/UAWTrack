@@ -13,8 +13,9 @@ This repo is the official implementation of "UAWTrack: Universal 3D Single Objec
 
 
 :scroll:**Datasets**
-To address the lack of datasets for 3D SOT under adverse weather conditions, we simulate physically valid weather on the KITTI and NuScenes datasets, generating two new datasets, KITTI-A and NuScenes-A. These datasets include three types of adverse weather — rain, snow, and fog — each with three intensity levels, as well as clear weather conditions. Below, we provide technical details on the simulated weather types, with visualization examples.
 
+
+To address the lack of datasets for 3D SOT under adverse weather conditions, we simulate physically valid weather on the KITTI and NuScenes datasets, generating two new datasets, KITTI-A and NuScenes-A. These datasets include three types of adverse weather — rain, snow, and fog — each with three intensity levels, as well as clear weather conditions. Below, we provide technical details on the simulated weather types, with visualization examples.
 
 **Rain:** We simulate rain using the LISA technique on both KITTI and NuScenes datasets. Rainfall is categorized into three levels with rates set at {0.20, 1.5625, and 7.29}.
 
