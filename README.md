@@ -2,7 +2,7 @@
 
 This repo is the official implementation of "UAWTrack: Universal 3D Single Object Tracking in Adverse Weather".
 
-
+![UAWTrack](figures/fog_Cyclist_6.gif)
 ## :star:Overview
 
 
