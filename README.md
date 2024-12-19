@@ -2,7 +2,7 @@
 
 This repo is the official implementation of "UAWTrack: Universal 3D Single Object Tracking in Adverse Weather".
 
-[![UAWTrack](figures/adverse weather.mp4)](https://github.com/user-attachments/assets/9526c6c6-2efe-45d1-a1db-bf49697e8475)
+[![UAWTrack](figures/AdverseWeather.mp4)](https://github.com/user-attachments/assets/902044bc-be57-46e7-ba41-350ebe030621)
 ## :star:Overview
 
 
